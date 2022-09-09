@@ -16,6 +16,7 @@ public class ListaTeste {
     @Mock
     private List<String> letras;
 
+
     @Test
     void addItem(){
         Mockito.when(letras.get(0)).thenReturn("B");
