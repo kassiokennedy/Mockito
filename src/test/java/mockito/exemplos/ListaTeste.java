@@ -23,4 +23,6 @@ public class ListaTeste {
         Assertions.assertEquals("B", letras.get(0));
     }
 
+    public static class ApiDosCorreiosTeste {
+    }
 }
